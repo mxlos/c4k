@@ -13,3 +13,4 @@ Compilation of resources related to learning to code for kids.
 * [Kids, Code, and Computer Science Magazine](https://www.kidscodecs.com/)
 * [Scratch](https://scratch.mit.edu/)
 * [Alice](http://www.alice.org/index.php)
+* [HacketyHack](http://www.hackety.com/)
