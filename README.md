@@ -11,3 +11,4 @@ Compilation of resources related to learning to code for kids.
 * [Devoxx 4 kids](http://www.devoxx4kids.org/)
 * [kidsruby](http://kidsruby.com/)
 * [Kids, Code, and Computer Science Magazine](https://www.kidscodecs.com/)
+* [Scratch](https://scratch.mit.edu/)
