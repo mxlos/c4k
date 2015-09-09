@@ -4,7 +4,7 @@ Code for kids
 Compilation of resources related to learning to code for kids.
 
 # Videos
-
+* [CS Unplugged](http://csunplugged.org/)
 # Blog posts
 
 # Websites
@@ -14,3 +14,4 @@ Compilation of resources related to learning to code for kids.
 * [Scratch](https://scratch.mit.edu/)
 * [Alice](http://www.alice.org/index.php)
 * [HacketyHack](http://www.hackety.com/)
+* [AppInventor](http://appinventor.mit.edu/explore/)
