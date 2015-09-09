@@ -5,6 +5,7 @@ Compilation of resources related to learning to code for kids.
 
 # Videos
 * [CS Unplugged](http://csunplugged.org/)
+
 # Blog posts
 
 # Websites
